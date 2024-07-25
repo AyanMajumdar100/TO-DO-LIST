@@ -23,8 +23,8 @@ To run the application locally, follow these steps:
 2. Clone the repository and navigate to the project directory.
 
     ```bash
-    git clone <repository-url>
-    cd <project-directory>
+    git clone [<repository-url>](https://github.com/AyanMajumdar100/TO-DO-LIST/)
+    cd ToDoListApp
     ```
 
 3. Compile and run the application:
